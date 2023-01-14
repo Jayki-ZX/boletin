@@ -1,5 +1,7 @@
 # Boletin semanal de avances
 
+Link: https://jayki-zx.github.io/boletin/
+
 El objetivo de este proyecto es revivir el boletín de tareas semanales que existió hace un tiempo.
 ![boletin1](./start_boletin.PNG)
 ![boletin2](./end_boletin.PNG)
