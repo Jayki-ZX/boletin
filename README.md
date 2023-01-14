@@ -13,4 +13,5 @@ Nace la motivación de revivir el boletín para el equipo y para los ex integran
 * Hacer el header y footer del boletin original.
 * Hacer un filtro para las semanas.
 * Hacer una guía para que cualquier persona pueda actualizar las tareas semana a semana.
+* Usar el dominio del eolian
 * Evaluar una mejor forma de manejar las tareas.
