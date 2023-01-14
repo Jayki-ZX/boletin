@@ -1,8 +1,8 @@
 # Boletin semanal de avances
 
 El objetivo de este proyecto es revivir el boletín de tareas semanales que existió hace un tiempo.
-![boletin1](./start_boletin.png)
-![boletin2](./end_boletin.png)
+![boletin1](./start_boletin.PNG)
+![boletin2](./end_boletin.PNG)
 
 Nace la motivación de revivir el boletín para el equipo y para los ex integrantes.
 
