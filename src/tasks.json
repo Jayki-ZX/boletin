@@ -1,0 +1,52 @@
+[
+    {
+        "date": "Semana 9 Enero",
+        "tasks": {
+            "electrics": [
+                "Arreglando el kelly",
+                "Rehaciendo cableado"
+            ],
+            "mechanics": [
+                "Mejorando suspension",
+                "Haciendo sistema de sacado del banco"
+            ],
+            "software": [
+                "Mejorando el simu",
+                "Haciendo la telemetria"
+            ],
+            "design": [
+                "Haciendo el carenado",
+                "Diseñando el nuevo carenado"
+            ],
+            "management": [
+                "Juntando plata",
+                "Estructurando planes de auspicio"
+            ]
+        }
+    },
+    {
+        "date": "Semana 2 de Enero",
+        "tasks": {
+            "electrics": [
+                "Arreglando el kelly",
+                "Rehaciendo cableado"
+            ],
+            "mechanics": [
+                "Mejorando suspension",
+                "Haciendo sistema de sacado del banco"
+            ],
+            "software": [
+                "Mejorando el simu",
+                "Haciendo la telemetria"
+            ],
+            "design": [
+                "Haciendo el carenado",
+                "Diseñando el nuevo carenado"
+            ],
+            "management": [
+                "Juntando plata",
+                "Estructurando planes de auspicio"
+            ]
+        }
+    }
+]
